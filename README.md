@@ -4,25 +4,27 @@ Hi there! I'm a **Data Scientist** with a passion for turning raw data into acti
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn
-- **Deep Learning:** TensorFlow, Keras
-- **Data Visualization:** Matplotlib, Seaborn
+- **Languages:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Machine Learning:** Scikit-learn  
+- **Deep Learning:** TensorFlow, Keras  
+- **Data Visualization:** Matplotlib, Seaborn, **Power BI**  
+- **Databases:** **MySQL**  
 - **Web Dev:** Flask, ReactJS
 
 ## ⚡ What I Do
 
-- Analyze and visualize large datasets to reveal hidden trends and patterns
-- Design and deploy ML models that predict, optimize, and automate decision-making
-- Dive into deep learning architectures for more complex and dynamic problem-solving
-- Build intuitive, data-driven applications using **Flask** & **ReactJS**
+- Analyze and visualize large datasets to reveal hidden trends and patterns using tools like **Power BI** and Python  
+- Design and deploy ML models that predict, optimize, and automate decision-making  
+- Dive into deep learning architectures for more complex and dynamic problem-solving  
+- Build intuitive, data-driven applications using **Flask** & **ReactJS**  
+- Work with relational databases like **MySQL** to manage and query structured data  
 - Stay at the forefront of AI advancements and continually explore new technologies
 
 ## 🌱 Currently Exploring
 
-- Advancing deep learning models for real-time, high-accuracy predictions
-- Contributing to open-source ML/DL projects and collaborating with innovators
+- Advancing deep learning models for real-time, high-accuracy predictions  
+- Contributing to open-source ML/DL projects and collaborating with innovators  
 - Experimenting with AI and automation to build smarter, more efficient solutions
 
 ## 📬 Let’s Connect
