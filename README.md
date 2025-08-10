@@ -8,8 +8,8 @@ Hi there! I'm a **Data Scientist** with a passion for turning raw data into acti
 - **Data Analysis:** Pandas, NumPy  
 - **Machine Learning:** Scikit-learn  
 - **Deep Learning:** TensorFlow, Keras  
-- **Data Visualization:** Matplotlib, Seaborn, **Power BI**  
-- **Databases:** **MySQL**  
+- **Data Visualization:** Matplotlib, Seaborn, Power BI  
+- **Databases:** MySQL  
 - **Web Dev:** Flask, ReactJS
 
 ## ⚡ What I Do
