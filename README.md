@@ -16,7 +16,7 @@ Hi there! I'm a **Data Scientist** with a passion for turning raw data into acti
 - Analyze and visualize large datasets to reveal hidden trends and patterns using tools like Power BI and Python  
 - Design and deploy ML models that predict, optimize, and automate decision-making  
 - Dive into deep learning architectures for more complex and dynamic problem-solving  
-- Build intuitive, data-driven applications using **Flask** & **ReactJS**  
+- Build intuitive, data-driven applications using Flask & ReactJS  
 - Stay at the forefront of AI advancements and continually explore new technologies
 
 ## 🌱 Currently Exploring
