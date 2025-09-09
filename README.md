@@ -9,7 +9,6 @@ Hi there! I'm a **Data Scientist** with a passion for turning raw data into acti
 - **Machine Learning:** Scikit-learn  
 - **Deep Learning:** TensorFlow, Keras  
 - **Data Visualization:** Matplotlib, Seaborn, Power BI  
-- **Databases:** MySQL  
 - **Web Dev:** Flask, ReactJS
 
 ## ⚡ What I Do
@@ -18,7 +17,6 @@ Hi there! I'm a **Data Scientist** with a passion for turning raw data into acti
 - Design and deploy ML models that predict, optimize, and automate decision-making  
 - Dive into deep learning architectures for more complex and dynamic problem-solving  
 - Build intuitive, data-driven applications using **Flask** & **ReactJS**  
-- Work with relational databases like **MySQL** to manage and query structured data  
 - Stay at the forefront of AI advancements and continually explore new technologies
 
 ## 🌱 Currently Exploring
